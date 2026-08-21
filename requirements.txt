@@ -1,0 +1,4 @@
+flask>=3.0
+flask-sock>=0.7
+psutil>=5.9
+requests>=2.31
