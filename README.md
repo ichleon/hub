@@ -1,4 +1,7 @@
-# NEO-HUB — Setup
+### link [hub](https://a57970-77e1.a.jrnm.app)
+
+
+## NEO-HUB — Setup
 
 Alle 6 Kacheln sind jetzt echt funktional. Damit alles läuft (WebSocket-Chat,
 System-Stats, Log, Zeit-Sync), brauchst du den kleinen Python-Server. Ohne
