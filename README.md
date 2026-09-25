@@ -37,10 +37,4 @@ Wichtig: `hub.html` NICHT direkt als Datei doppelklicken — sie muss über
 - `requirements.txt` — `flask`, `flask-sock`, `psutil`, `requests`
 - `hub.log` — wird beim ersten Start automatisch angelegt
 
-## Erweiterungsideen für dein Pi-5-Setup
 
-Da du sowieso schon einen Webhook-zu-WebSocket-Gateway für deine
-OLED/LCD-Displays baust: `server.py` lässt sich leicht erweitern, damit
-z.B. die Daten-Knoten-Kachel echte Sensordaten deines Pi anzeigt
-(Temperatur über `vcgencmd measure_temp`, GPIO-Status über `pinctrl`, etc.)
-statt nur CPU/RAM. Sag Bescheid, wenn ich das einbauen soll.
