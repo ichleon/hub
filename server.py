@@ -74,7 +74,7 @@ START_TIME = time.time()
 @app.route("/")
 def index():
     logger.info("Hub-Seite aufgerufen")
-    return send_from_directory(APP_DIR, "hub.html")
+    return send_from_directory(APP_DIR, "index.html")
 
 
 # ---------------------------------------------------------------------------
