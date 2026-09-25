@@ -3,10 +3,6 @@
 
 ## NEO-HUB — Setup
 
-Alle 6 Kacheln sind jetzt echt funktional. Damit alles läuft (WebSocket-Chat,
-System-Stats, Log, Zeit-Sync), brauchst du den kleinen Python-Server. Ohne
-ihn öffnet sich `hub.html` zwar weiterhin, aber Standort ist der einzige
-Punkt, der auch rein im Browser (ohne Server) funktioniert.
 
 ## Installation
 
